@@ -47,7 +47,7 @@ These notes are intended to be a quick reference for using the applet, more rigo
 
 ## 🔬 About the Project
 
-This is part of an ongoing project for the YouTube channel [Sandrodmun](www.youtube.com/@sandrodmun) where we will study many different subjects in mathematics, physics, etc., rigorously with precise definitions and proofs, and interactively, with apps and games like the ones in this repository that will make the concepts easier to grasp.
+This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we will study many different subjects in mathematics, physics, etc., rigorously with precise definitions and proofs, and interactively, with apps and games like the ones in this repository that will make the concepts easier to grasp.
 The project is ambitious and far-reaching so it will take some time until I can upload the full courses to the YouTube channel, but I will try to upload part of the full courses soon!
 
 
