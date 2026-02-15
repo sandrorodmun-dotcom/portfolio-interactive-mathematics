@@ -36,7 +36,7 @@ By moving $z$ or tracing specific paths, you can see how complex functions rotat
 ## 📂 Project Documentation
 
 Included in this repository is a detailed technical guide:
-* **[Visualizing_Complex_Functions.pdf](./01__Visualizing_Complex_Functions.pdf)**
+* **[Visualizing_Complex_Functions.pdf](./Visualizing_Complex_Functions.pdf)**
 
 The PDF covers the fundamental differences between real and complex analysis, the mathematics behind parametric path mapping, and a full user manual for the GeoGebra applet.
 
