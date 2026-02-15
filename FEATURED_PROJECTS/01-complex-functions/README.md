@@ -5,7 +5,7 @@ This project is an interactive tool designed to visualize the behavior of comple
 ---
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b814f35e-6993-492d-baff-e05a91e25aa8" /> Interactive Applet
-**Access the tool here:** [Visualizing Complex Functions on GeoGebra](https://www.geogebra.org/m/vzms9bsg)  
+**Access the tool here:** [Visualizing Complex Functions on GeoGebra](https://www.geogebra.org/m/axw5rbzs)  
 > **Tip:** For the best experience, click the three dots in the top right and select **"Open in App"**. This allows you to resize windows and access the full input capabilities of GeoGebra.
 
 ---
