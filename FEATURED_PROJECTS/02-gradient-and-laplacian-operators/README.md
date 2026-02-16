@@ -55,7 +55,7 @@ The PDF covers the fundamental definitions of scalar fields, the geometric inter
 
 ---
 
-## 🔬 About the Project
+## <img width="40" height="40" alt="00_logo_Version_2_(no_bg)" src="https://github.com/user-attachments/assets/67f1bdff-3545-4508-9500-5206222fde2b" /> About the Project
 
 This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we study subjects in mathematics and physics rigorously. We use interactive apps like this one to transform abstract concepts into visual environments that are easier to grasp.
 
