@@ -1,6 +1,7 @@
 # Visualizing Complex Functions with GeoGebra
 
 This project is an interactive tool designed to visualize the behavior of complex-valued functions $f: \mathbb{C} \to \mathbb{C}$. Since complex functions map a 2D input (real and imaginary) to a 2D output, they effectively exist in 4D space. This applet uses a **two-plane mapping** method to make these transformations intuitive and visually accessible.
+<img width="1916" height="725" alt="Thumbnail_1" src="https://github.com/user-attachments/assets/383fae1f-3001-47aa-be87-941c97c37611" />
 
 ---
 
