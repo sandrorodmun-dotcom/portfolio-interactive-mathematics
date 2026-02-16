@@ -1,6 +1,8 @@
 # Visualizing the Gradient and the Laplacian with GeoGebra
 
 This project is an interactive tool designed to visualize the behavior of scalar functions $f: \mathbb{R}^2 \to \mathbb{R}$ through the **gradeint** and the **laplacian**.
+<img width="1918" height="850" alt="Thumbnail" src="https://github.com/user-attachments/assets/80d0580d-4c84-47c1-b0ba-b1dbaffe1140" />
+
 
 ---
 
