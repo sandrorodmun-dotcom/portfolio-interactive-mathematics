@@ -43,7 +43,7 @@ The function generator combines the chosen function types by randomly multiplyin
 ## 📂 Project Documentation
 
 Included in this repository is a detailed technical guide:
-* **[Derivative_Trainer_Guide.pdf](./Derivative_Trainer_Guide.pdf)**
+* **[Derivative_Trainer_Guide.pdf](./Derivative_Trainer.pdf)**
 
 The PDF covers a review of differentiation rules, common pitfalls for students, and a full user manual for the GeoGebra applet's generator settings.
 
