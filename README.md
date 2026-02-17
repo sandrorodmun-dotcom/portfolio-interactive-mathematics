@@ -1,81 +1,64 @@
 # Interactive Mathematics Visualizations
 
-Welcome! I'm **Sandro Rodríguez Muñoz**, a mathematician passionate about making abstract concepts tangible through interactive visualizations. This is my collection of **GeoGebra projects** exploring complex analysis, differential geometry, graph theory, celestial mechanics, and linear algebra.
+Welcome! I'm **Sandro Rodríguez Muñoz**, a Physics/Mathematics graduate student passionate about making abstract concepts tangible through interactive visualizations. This is my collection of **GeoGebra projects** exploring various subjects that I have been doing as a hobby, for tutoring classes, and also for my YouTube channel.
 
 ## About This Portfolio
 
-I hold a Bachelor's degree in Physics and an MSc in Pure Mathematics. As an educator and content creator (YouTube channel on mathematics and physics), I believe that **interactive visualization** is one of the most powerful tools for understanding mathematics. 
+I hold a Bachelor's degree in Physics and an MSc in pure Mathematics, and have always liked making interactive projects and apps to visualize and explain concepts in Physics and Mathematics more visually.
 
-Rather than building standalone apps, I've chosen **GeoGebra** as my platform because it allows anyone to immediately engage with these visualizations—no downloads, no installations, just click and explore.
+After some time trying to do animations and apps using Python and Javascript, I've chosen **GeoGebra** as the main platform because it allows anyone to immediately engage with these visualizations, no downloads, no installations, just click and explore.
 
-**Currently applying to:** [Brilliant.org](https://brilliant.org) 🚀
+In my YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) I have been uploading videos explaining concepts and doing exercises that I found interesting while finishing my Bachelor's but some time ago I decided to make more structued and formal courses on many subjects, that is why there is a big time gap since my last video, I am in the process of preparing the resoruces, notes, strucutre, etc. for all of these courses, like the resources in this repository.
+
+These are some of the projects I have been doing, trying to capture the main ideas of how I view the project I have in mind.
 
 ---
 
-## Featured Projects (5)
+## Featured Projects (4)
 
-These are my flagship projects, carefully crafted to explore deep mathematical concepts:
+These are some of the projects that I consider to be finished. They will in the future be incorporated into more complete and rigorous courses on Complex Analysis, Abstract Algebra, Calculus, etc.
 
 ### 1. [Visualization of Complex Functions](./FEATURED_PROJECTS/01-complex-functions/)
-**Explore the beauty of complex analysis in the plane.**
-- Visualize how complex functions map the plane to itself
-- Understand domains, singularities, and branch cuts
-- Interactive exploration of exponential, logarithmic, and trigonometric functions
-- **Skills:** Complex analysis, visualization techniques
+**A nice way of Visualizing how Complex Functions Work**
+- Explore different complex functions and how they transform horizontal and vertical lines
+- Define any parametric path and see how $f$ transforms it completely
+- See how $f$ behaves when we approach a pole
 
 ### 2. [Visualization of the Gradient and the Laplacian](./FEATURED_PROJECTS/02-gradient-laplacian/)
 **Understand multivariable calculus through interactive geometry.**
 - See how the gradient vector field points in the direction of steepest ascent
-- Explore the Laplacian operator and its role in PDEs
-- Visualize level curves and vector fields simultaneously
-- **Skills:** Multivariable calculus, differential operators, vector analysis
+- Explore the Laplacian operator and how it tells us about peaks and valleys
 
 ### 3. [Graph Isomorphisms Through a Game](./FEATURED_PROJECTS/03-graph-isomorphisms-game/)
 **Learn graph theory by playing an interactive game.**
 - Determine if two graphs are isomorphic by finding the correct vertex mapping
-- Build intuition about graph structure and invariants
+- Build intuition about graph structure with a game
 - Progressive difficulty levels
-- **Skills:** Graph theory, combinatorics, algorithm visualization
 
-### 4. [Kepler's Laws](./FEATURED_PROJECTS/04-keplers-laws/)
-**Celestial mechanics made interactive.**
-- Visualize elliptical orbits with varying eccentricity
-- Explore the three laws of planetary motion
-- See how orbital parameters affect planetary motion
-- **Skills:** Classical mechanics, numerical simulation, physics pedagogy
-
-### 5. [Visualization of Change of Basis in ℝ² & Basis Change Calculator](./FEATURED_PROJECTS/05-change-of-basis/)
+### 4. [Visualization of Change of Basis in ℝ² & Basis Change Calculator](./FEATURED_PROJECTS/05-change-of-basis/)
 **Master linear algebra transformations visually.**
 - Interactive visualization of basis transformations
 - See how coordinates change under different bases
 - Built-in calculator for basis change computations
-- **Skills:** Linear algebra, coordinate systems, computational tools
 
 [View all featured projects →](./FEATURED_PROJECTS/)
 
 ---
 
-## 📚 Portfolio Projects (15)
+## 📚 Archive Projects (17)
 
-A collection of additional visualizations exploring diverse mathematical topics:
+A collection of additional visualizations exploring diverse mathematical and physical topics. For these projects the final version of the applets, the PDFs and more detailed README files are still on their way!
 
-| # | Project | Topics |
-|---|---------|--------|
-| 6 | [Portfolio Project 1](./PORTFOLIO_PROJECTS/06-project/) | TBD |
-| 7 | [Portfolio Project 2](./PORTFOLIO_PROJECTS/07-project/) | TBD |
-| 8 | [Portfolio Project 3](./PORTFOLIO_PROJECTS/08-project/) | TBD |
-| ... | [More projects](./PORTFOLIO_PROJECTS/) | See folder |
-
-[Explore all portfolio projects →](./PORTFOLIO_PROJECTS/)
+[Explore all archive projects →](./PORTFOLIO_PROJECTS/)
 
 ---
 
 ## 🛠️ Technical Details
 
 - **Platform:** GeoGebra
-- **Why GeoGebra?** Accessibility + interactivity without friction. No installation required.
-- **Additional Skills:** JavaScript (GeoGebra scripting), Python, MATLAB, pedagogical design
-- **Future Directions:** Expanding to cover more areas of pure and applied mathematics, creating supplementary content for different learning styles
+- **Why GeoGebra?** No installation required for the user.
+- **Additional Skills:** JavaScript (GeoGebra scripting), Python, MATLAB, LaTeX.
+- **Future Directions:** Expanding to cover more areas of pure and applied mathematics and physics, creating supplementary content for different learning styles
 
 ---
 
@@ -101,30 +84,33 @@ A collection of additional visualizations exploring diverse mathematical topics:
 ## 📖 How to Use These Projects
 
 1. **Click on any project folder** to read the detailed explanation
-2. **Open the `.ggb` file** in GeoGebra (online or desktop)
+2. **Click the Link to the Geogebra Applet**
 3. **Experiment!** Each project is designed to be interactive and exploratory
 4. **Read the README** in each folder for specific instructions and learning objectives
+5. **Download the .ggb file** if you want to see the full code
 
 ---
 
 ## 💡 Ideas for Future Projects
 
-I have many more ideas in the pipeline! Some I'm currently exploring:
+I have many more ideas in mind! Some I'm currently exploring:
+- Simulations of important experiments in phyiscs
+- Special Relativity
 - Fourier series visualizations
 - Topology concepts (continuous deformations, homeomorphisms)
-- Probability distributions and their properties
 - Vector calculus (curl, divergence, line integrals)
 - Non-Euclidean geometry visualizations
 - Dynamical systems and chaos theory
+- Isomorphisms of structures like groups, rings, vectors spaces, etc.
+- Free constructions like free groups, free vectors spaces, etc.
+- Category Theory exaplanations like pullbacks, pushforwards, morphisms, natural transformations, etc.
 - And more...
 
 ---
 
 ## 📬 Contact & Connect
 
-- **YouTube:** [Your channel link]
-- **GitHub:** [Your profile](https://github.com/sandrorodmun-dotcom)
-- **Email:** [Your email]
+- **Email:** sandrorodmun@gmail.com
 
 ---
 
