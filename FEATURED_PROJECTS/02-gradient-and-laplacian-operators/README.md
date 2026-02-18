@@ -1,6 +1,6 @@
 # Visualizing the Gradient and the Laplacian with GeoGebra
 
-This project is an interactive tool designed to visualize the behavior of scalar functions $f: \mathbb{R}^2 \to \mathbb{R}$ through the **gradeint** and the **laplacian**.
+This project is an interactive tool designed to visualize the behavior of scalar functions $f: \mathbb{R}^2 \to \mathbb{R}$ through the **gradient** and the **Laplacian**.
 <img width="1918" height="850" alt="Thumbnail" src="https://github.com/user-attachments/assets/80d0580d-4c84-47c1-b0ba-b1dbaffe1140" />
 
 
@@ -24,7 +24,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 
 ## Key Features
 
-* **Dynamic Gradient Mapping:** Move point $P$ in either the 2D or 3D window and watch the gradient vector and thelaplacian update their values in the window on the right.
+* **Dynamic Gradient Mapping:** Move point $P$ in either the 2D or 3D window and watch the gradient vector and the Laplacian update their values in the window on the right.
 * **Vector Field Visualization:**
     * **Grid Control:** Adjust the separation and boundaries ($x_{min}, x_{max}$, etc.) of the vector grid.
     * **Color Coding:** Vectors are normalized to prevent overlapping, using a color gradient where **blue** indicates a small norm (flat areas) and **red** indicates a large norm (steep areas).
@@ -51,7 +51,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 Included in this repository is a detailed technical guide:
 * **[Visualizing_Gradient_Laplacian.pdf](./Visualizing_Gradient_Laplacian.pdf)**
 
-The PDF covers the fundamental definitions of scalar fields, the geometric interpretation of the gradient, the physical meaning of divergence, and a full user manual for the GeoGebra applet.
+The PDF covers the fundamental definitions of scalar fields, and the geometric interpretation of the gradient and the Laplacian, and a full user manual for the GeoGebra applet.
 
 ---
 
