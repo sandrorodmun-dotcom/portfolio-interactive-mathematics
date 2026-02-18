@@ -49,7 +49,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 ## Project Documentation
 
 Included in this repository is a detailed technical guide:
-* **[Visualizing_Gradient_Laplacian.pdf](./Visualizing_Gradient_Laplacian.pdf)**
+* **[Visualizing_Gradient_Laplacian.pdf](./Visualizing_the_Gradient_and_the_Laplacian.pdf)**
 
 The PDF covers the fundamental definitions of scalar fields, and the geometric interpretation of the gradient and the Laplacian, and a full user manual for the GeoGebra applet.
 
