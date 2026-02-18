@@ -8,7 +8,7 @@ I hold a Bachelor's degree in Physics and an MSc in pure Mathematics, and have a
 
 After some time trying to do animations and apps using Python and Javascript, I've chosen **GeoGebra** as the main platform because it allows anyone to immediately engage with these visualizations, no downloads, no installations, just click and explore.
 
-In my YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) I have been uploading videos explaining concepts and doing exercises that I found interesting while finishing my Bachelor's but some time ago I decided to make more structued and formal courses on many subjects, that is why there is a big time gap since my last video, I am in the process of preparing the resoruces, notes, strucutre, etc. for all of these courses, like the resources in this repository.
+In my YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) I have been uploading videos explaining concepts and doing exercises that I found interesting while finishing my Bachelor's but some time ago I decided to make more structured and formal courses on many subjects, that is why there is a big time gap since my last video, I am in the process of preparing the resoruces, notes, structure, etc. for all of these courses, like the resources in this repository.
 
 These are some of the projects I have been doing, trying to capture the main ideas of how I view the project I have in mind.
 
@@ -47,7 +47,7 @@ These are some of the projects that I consider to be finished. They will in the 
 
 ## Archive Projects (17)
 
-A collection of additional visualizations exploring diverse mathematical and physical topics. For these projects the final version of the applets, the PDFs and more detailed README files are still on their way!
+A collection of additional visualizations exploring diverse Mathematics and Physics topics. For these projects the final version of the applets, the PDFs and more detailed README files are still on their way!
 
 [Explore all archive projects →](./PORTFOLIO_PROJECTS/)
 
@@ -58,7 +58,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 - **Platform:** GeoGebra
 - **Why GeoGebra?** No installation required for the user.
 - **Additional Skills:** JavaScript (GeoGebra scripting), Python, MATLAB, LaTeX.
-- **Future Directions:** Expanding to cover more areas of pure and applied mathematics and physics, creating supplementary content for different learning styles
+- **Future Directions:** Expanding to cover more areas of pure and applied mathematics and Physics, creating supplementary content for different learning styles
 
 ---
 
@@ -76,7 +76,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 - **Interests:** 
   - Teaching and mathematical pedagogy
   - Creating interactive learning tools
-  - Mathematics and physics education content (YouTube channel)
+  - Mathematics and Physics education content (YouTube channel)
   - Exploring connections between pure and applied mathematics
 
 ---
@@ -94,16 +94,16 @@ A collection of additional visualizations exploring diverse mathematical and phy
 ## Ideas for Future Projects
 
 I have many more ideas in mind! Some I'm currently exploring:
-- Simulations of important experiments in phyiscs
+- Simulations of important experiments in Physics
 - Special Relativity
 - Fourier series visualizations
 - Topology concepts (continuous deformations, homeomorphisms)
 - Vector calculus (curl, divergence, line integrals)
 - Non-Euclidean geometry visualizations
 - Dynamical systems and chaos theory
-- Isomorphisms of structures like groups, rings, vectors spaces, etc.
-- Free constructions like free groups, free vectors spaces, etc.
-- Category Theory exaplanations like pullbacks, pushforwards, morphisms, natural transformations, etc.
+- Isomorphisms of structures like groups, rings, vector spaces, etc.
+- Free constructions like free groups, free vector spaces, etc.
+- Category Theory explanations like pullbacks, pushforwards, morphisms, natural transformations, etc.
 - And more...
 
 ---
