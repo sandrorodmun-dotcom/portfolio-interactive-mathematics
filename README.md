@@ -45,7 +45,7 @@ These are some of the projects that I consider to be finished. They will in the 
 
 ---
 
-## 📚 Archive Projects (17)
+## Archive Projects (17)
 
 A collection of additional visualizations exploring diverse mathematical and physical topics. For these projects the final version of the applets, the PDFs and more detailed README files are still on their way!
 
@@ -53,7 +53,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Platform:** GeoGebra
 - **Why GeoGebra?** No installation required for the user.
@@ -62,7 +62,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 
 ---
 
-## 🌍 About Me
+## About Me
 
 - **Education:** 
   - Bachelor's degree in Physics
@@ -81,7 +81,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 
 ---
 
-## 📖 How to Use These Projects
+## How to Use These Projects
 
 1. **Click on any project folder** to read the detailed explanation
 2. **Click the Link to the Geogebra Applet**
@@ -91,7 +91,7 @@ A collection of additional visualizations exploring diverse mathematical and phy
 
 ---
 
-## 💡 Ideas for Future Projects
+## Ideas for Future Projects
 
 I have many more ideas in mind! Some I'm currently exploring:
 - Simulations of important experiments in phyiscs
@@ -108,7 +108,7 @@ I have many more ideas in mind! Some I'm currently exploring:
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 - **Email:** sandrorodmun@gmail.com
 
