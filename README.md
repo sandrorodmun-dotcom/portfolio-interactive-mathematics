@@ -8,7 +8,7 @@ I hold a Bachelor's degree in Physics and an MSc in pure Mathematics, and have a
 
 After some time trying to do animations and apps using Python and Javascript, I've chosen **GeoGebra** as the main platform because it allows anyone to immediately engage with these visualizations, no downloads, no installations, just click and explore.
 
-In my YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) I have been uploading videos explaining concepts and doing exercises that I found interesting while finishing my Bachelor's but some time ago I decided to make more structured and formal courses on many subjects, that is why there is a big time gap since my last video, I am in the process of preparing the resoruces, notes, structure, etc. for all of these courses, like the resources in this repository.
+In my YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) I have been uploading videos explaining concepts and doing exercises that I found interesting while finishing my Bachelor's but some time ago I decided to make more structured and formal courses on many subjects, that is why there is a big time gap since my last video, I am in the process of preparing the resources, notes, structure, etc. for all of these courses, like the resources in this repository.
 
 These are some of the projects I have been doing, trying to capture the main ideas of how I view the project I have in mind.
 
