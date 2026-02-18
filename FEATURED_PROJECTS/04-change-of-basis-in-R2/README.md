@@ -10,7 +10,7 @@ This project is an interactive tool designed to visualize how the coordinates of
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b814f35e-6993-492d-baff-e05a91e25aa8" /> Interactive Applet
+## Interactive Applet
 
 **Access the tool here:** [Change of Basis in R2 on GeoGebra](https://www.geogebra.org/m/uuxbyzbc)  
 
@@ -18,7 +18,7 @@ This project is an interactive tool designed to visualize how the coordinates of
 
 ---
 
-## 📖 Overview
+## Overview
 
 In linear algebra, a basis provides a coordinate system for a vector space. While the "Canonical Basis" is the most common, different problems are often easier to solve in alternative bases. This applet shows how changes of basis work in $\mathbb{R}^2$, both algebraically and geometrically. To do this, we have 2 windows:
 
@@ -27,7 +27,7 @@ In linear algebra, a basis provides a coordinate system for a vector space. Whil
 
 ---
 
-## 🛠 Key Features
+## Key Features
 
 * **Dynamic Vector Manipulation:** Drag the heads of basis vectors to see how the background grid and coordinates update in real-time.
 * **Automatic Matrix Generation:** Watch as the applet constructs the matrix $M_{w \leftarrow u}$ by expressing the vectors of $\mathcal{B}_u$ in terms of $\mathcal{B}_w$.
@@ -37,7 +37,7 @@ In linear algebra, a basis provides a coordinate system for a vector space. Whil
 
 ---
 
-## 🔬 Mathematical Context
+## Mathematical Context
 
 If we have two bases $\mathcal{B}_u = \lbrace \vec{u}_A, \vec{u}_B \rbrace$ and $\mathcal{B}_w = \lbrace \vec{w}_A, \vec{w}_B \rbrace$, the coordinates of a vector $\vec{v}$ are related by the **Change of Basis Matrix**:
 
@@ -49,7 +49,7 @@ $$\det(M_{w \leftarrow u}) \neq 0$$
 
 ---
 
-## 📂 Project Documentation
+## Project Documentation
 
 Included in this repository is a detailed technical guide:
 * **[Change_of_Basis_Guide.pdf](./Change_of_Basis.pdf)**
@@ -58,7 +58,7 @@ The PDF covers the definition of a basis, the step-by-step derivation of the cha
 
 ---
 
-## <img width="40" height="44" alt="00_Logo_Version_2_no_white_square" src="https://github.com/user-attachments/assets/4fc2a239-9398-4277-8c3c-2f9760efe5db" /> About the Project
+## About the Project
 
 This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we study many different subjects in mathematics and physics rigorously with precise definitions and proofs, and interactively, with apps and games like the ones in this repository.
 
