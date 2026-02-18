@@ -1,6 +1,6 @@
 # Visualizing Graph Isomorphisms with GeoGebra
 
-This project is an interactive tool and game designed to help develop an intuition for **Graph Isomorphisms**. In graph theory, two graphs are isomorphic if they are "the same" structurally, even if they are drawn differently. This applet allows you to manipulate scrambled graphs to match a target structure, making the process of finding  an isomorphism more visual.
+This project is an interactive tool and game designed to help develop an intuition for **Graph Isomorphisms**. In graph theory, two graphs are isomorphic if they are "the same" structurally, even if they are drawn differently. This applet allows you to manipulate scrambled graphs to match a target structure, making the process of finding an isomorphism more visual.
 <img width="1335" height="522" alt="Thumbnail" src="https://github.com/user-attachments/assets/8c34bc98-7041-4266-ae99-6e8100ffa457" />
 
 ---
@@ -57,6 +57,6 @@ The PDF covers the formal definition of undirected graphs, the properties of bij
 
 This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we study many different subjects in mathematics, physics, etc., rigorously with precise definitions and proofs, and interactively, with apps and games like the ones in this repository.
 
-The project aims to make abstract concepts, results, theorems, etc. a bit more intuitive and accessible. Stay tuned for more interactive tools and full courses!
+The project aims to make abstract concepts, results, theorems, etc. more intuitive and accessible. Stay tuned for more interactive tools and full courses!
 
 ---
