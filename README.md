@@ -18,30 +18,30 @@ These are some of the projects I have been doing, trying to capture the main ide
 
 These are some of the projects that I consider to be finished. They will in the future be incorporated into more complete and rigorous courses on Complex Analysis, Abstract Algebra, Calculus, etc.
 
-### 1. [Visualization of Complex Functions](./FEATURED_PROJECTS/01-complex-functions/)
+### 1. [Visualization of Complex Functions](./featured-projects/01-complex-functions/)
 **A nice way of Visualizing how Complex Functions Work**
 - Explore different complex functions and how they transform horizontal and vertical lines
 - Define any parametric path and see how $f$ transforms it completely
 - See how $f$ behaves when we approach a pole
 
-### 2. [Visualization of the Gradient and the Laplacian](./FEATURED_PROJECTS/02-gradient-laplacian/)
+### 2. [Visualization of the Gradient and the Laplacian](./featured-projects/02-gradient-and-laplacian-operators/)
 **Understand multivariable calculus through interactive geometry.**
 - See how the gradient vector field points in the direction of steepest ascent
 - Explore the Laplacian operator and how it tells us about peaks and valleys
 
-### 3. [Graph Isomorphisms Through a Game](./FEATURED_PROJECTS/03-graph-isomorphisms-game/)
+### 3. [Graph Isomorphisms Through a Game](./featured-projects/03-graph-isomorphisms-game/)
 **Learn graph theory by playing an interactive game.**
 - Determine if two graphs are isomorphic by finding the correct vertex mapping
 - Build intuition about graph structure with a game
 - Progressive difficulty levels
 
-### 4. [Visualization of Change of Basis in ℝ² & Basis Change Calculator](./FEATURED_PROJECTS/05-change-of-basis/)
+### 4. [Visualization of Change of Basis in ℝ² & Basis Change Calculator](./featured-projects/04-change-of-basis-in-R2/)
 **Master linear algebra transformations visually.**
 - Interactive visualization of basis transformations
 - See how coordinates change under different bases
 - Built-in calculator for basis change computations
 
-[View all featured projects →](./FEATURED_PROJECTS/)
+[View all featured projects →](./featured-projects/)
 
 ---
 
@@ -49,7 +49,7 @@ These are some of the projects that I consider to be finished. They will in the 
 
 A collection of additional visualizations exploring diverse Mathematics and Physics topics. For these projects the final version of the applets, the PDFs and more detailed README files are still on their way!
 
-[Explore all archive projects →](./PORTFOLIO_PROJECTS/)
+[Explore all archive projects →](./projects-in-progress/)
 
 ---
 
