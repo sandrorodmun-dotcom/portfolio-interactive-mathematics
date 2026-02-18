@@ -5,13 +5,13 @@ This project is an interactive tool and game designed to help develop an intuiti
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b814f35e-6993-492d-baff-e05a91e25aa8" /> Interactive Applet
+## Interactive Applet
 **Access the tool here:** [Graph Isomorphisms Game on GeoGebra](https://www.geogebra.org/m/vhcja6kr)  
 > **Tip:** For the best experience, click the three dots in the top right and select **"Open in App"**. This allows you to hide/show objects easily, and provides the most flexible interface for solving complex graphs.
 
 ---
 
-## 📖 Overview
+## Overview
 
 A graph $G = (V, E)$ is defined by its **Vertices** (nodes) and its **Edges** (connections). The core challenge of this project is understanding that the *position* of these vertices does not change the identity of the graph.
 
@@ -24,7 +24,7 @@ Your goal is to find the **isomorphism**—the mapping—by dragging the random 
 
 ---
 
-## 🛠 Key Features
+## Key Features
 
 * **Diverse Library of Famous Graphs:** Practice with structures like the **Petersen Graph** (10 nodes, 15 edges), the **Heawood Graph**, or the complex **Coxeter Graph**.
 * **Custom Challenge Mode:** Use the **Random** option to generate your own graphs. You can adjust sliders to choose the exact number of vertices and edges for a unique puzzle.
@@ -35,7 +35,7 @@ Your goal is to find the **isomorphism**—the mapping—by dragging the random 
 
 ---
 
-## 🔬 Mathematical Context
+## Mathematical Context
 
 Two graphs $G_1$ and $G_2$ are **isomorphic** ($G_1 \cong G_2$) if there exists a **bijective function** $f: V_1 \to V_2$ such that:
 $$\lbrace u, v\rbrace \in E_1 \iff \lbrace f(u), f(v)\rbrace \in E_2$$.
@@ -44,7 +44,7 @@ This is known as **edge preservation**. In this game, when you place $P_1$ on to
 
 ---
 
-## 📂 Project Documentation
+## Project Documentation
 
 Included in this repository is a detailed technical guide:
 * **[Graph_Isomorphisms_Guide.pdf](./Graph_Isomorphisms_Guide.pdf)**
@@ -53,7 +53,7 @@ The PDF covers the formal definition of undirected graphs, the properties of bij
 
 ---
 
-## <img width="40" height="44" alt="00_Logo_Version_2_no_white_square" src="https://github.com/user-attachments/assets/4fc2a239-9398-4277-8c3c-2f9760efe5db" /> About the Project
+## About the Project
 
 This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we study many different subjects in mathematics, physics, etc., rigorously with precise definitions and proofs, and interactively, with apps and games like the ones in this repository.
 
