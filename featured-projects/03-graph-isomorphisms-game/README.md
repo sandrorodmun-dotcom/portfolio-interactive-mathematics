@@ -47,7 +47,7 @@ This is known as **edge preservation**. In this game, when you place $P_1$ on to
 ## Project Documentation
 
 Included in this repository is a detailed technical guide:
-* **[Graph_Isomorphisms_Guide.pdf](./Graph_Isomorphisms_Guide.pdf)**
+* **[Graph_Isomorphisms_Guide.pdf](./Graph_Isomorphisms_Game.pdf)**
 
 The PDF covers the formal definition of undirected graphs, the properties of bijective mappings, examples of edge preservation, and a full user manual for the GeoGebra applet's different modes.
 
