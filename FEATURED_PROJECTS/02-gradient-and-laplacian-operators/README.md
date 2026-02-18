@@ -6,13 +6,13 @@ This project is an interactive tool designed to visualize the behavior of scalar
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b814f35e-6993-492d-baff-e05a91e25aa8" /> Interactive Applet
+## Interactive Applet
 **Access the tool here:** [Visualizing the Gradient and the Laplacian on GeoGebra](https://www.geogebra.org/m/z5sxvuee)  
 > **Tip:** For the best experience, click the **Fullscreen** button on the bottom right corner of the window.
 
 ---
 
-## 📖 Overview
+## Overview
 
 In multivariable calculus, visualizing how a function changes in different directions can be challenging. This applet uses a **three-window system** to bridge the gap between algebra and geometry:
 
@@ -22,7 +22,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 
 ---
 
-## 🛠 Key Features
+## Key Features
 
 * **Dynamic Gradient Mapping:** Move point $P$ in either the 2D or 3D window and watch the gradient vector and thelaplacian update their values in the window on the right.
 * **Vector Field Visualization:**
@@ -36,7 +36,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 
 ---
 
-## 🔬 Mathematical Interpretation
+## Mathematical Interpretation
 
 * **The Gradient ($\nabla f$):** Tells us "which way is up." It always points toward the steepest path to the top of the mountain.
 * **The Laplacian ($\nabla^2 f$):** Measures the divergence of the gradient. 
@@ -46,7 +46,7 @@ In multivariable calculus, visualizing how a function changes in different direc
 
 ---
 
-## 📂 Project Documentation
+## Project Documentation
 
 Included in this repository is a detailed technical guide:
 * **[Visualizing_Gradient_Laplacian.pdf](./Visualizing_Gradient_Laplacian.pdf)**
@@ -56,7 +56,7 @@ The PDF covers the fundamental definitions of scalar fields, the geometric inter
 ---
 
 
-## <img width="40" height="44" alt="00_Logo_Version_2_no_white_square" src="https://github.com/user-attachments/assets/4fc2a239-9398-4277-8c3c-2f9760efe5db" /> About the Project
+## About the Project
 
 This is part of an ongoing project for the YouTube channel [Sandrodmun](https://www.youtube.com/@sandrodmun) where we study subjects in mathematics and physics rigorously. We use interactive apps like this one to transform abstract concepts into visual environments that are easier to grasp.
 
